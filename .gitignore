@@ -9,3 +9,6 @@ __pycache__/
 
 # Temporary pipeline files
 outputs1/audio_clip*.mp3
+
+# Local report files (for PDF export)
+INFORME_ENTREGA_TP.md
