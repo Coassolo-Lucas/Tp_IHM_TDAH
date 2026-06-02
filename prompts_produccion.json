@@ -1,0 +1,31 @@
+{
+    "idea_fuerza_comunicacional": "Un estudiante masculino supera la frustración de perder el colectivo gracias al Unipase",
+    "scene_bible_ingles": {
+        "character_description": "Young male student, 20s, casual clothing, backpack, worried expression",
+        "environment_setup": "Urban bus stop, daytime, sunny, with people in the background",
+        "camera_style": "9:16 vertical aspect ratio, 35mm lens, realistic cinematic look, smooth camera movements"
+    },
+    "shot_list_12s": [
+        {
+            "clip": 1,
+            "tiempo": "0-4s",
+            "fase": "Punción de Muerte (PM)",
+            "prompt_video": "The young male student runs towards the bus stop, looking frustrated and worried, as the bus drives away without him, he stops and looks down, kicking the ground in disappointment",
+            "subtitulo_saliencia": "¿Pierdes el colectivo y te quedas sin transporte?"
+        },
+        {
+            "clip": 2,
+            "tiempo": "4-8s",
+            "fase": "Neutro (N)",
+            "prompt_video": "The student looks up, takes a deep breath, and starts searching his backpack, then pulls out a Unipase card, looks at it thoughtfully, and a hint of a smile appears on his face",
+            "subtitulo_saliencia": "Descubre una alternativa digital para tu viaje"
+        },
+        {
+            "clip": 3,
+            "tiempo": "8-12s",
+            "fase": "Punción de Vida (PV)",
+            "prompt_video": "The student walks towards the camera, smiling, holding up the Unipase card, as he approaches the next bus stop, he jumps up and boards the bus with ease, turning back to the camera with a satisfied expression",
+            "subtitulo_saliencia": "¡Viaja de forma más simple con UniPase hoy!"
+        }
+    ]
+}

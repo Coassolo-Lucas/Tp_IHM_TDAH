@@ -1,0 +1,11 @@
+# Credentials and secrets
+.env
+
+# Python build and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary pipeline files
+outputs1/audio_clip*.mp3
