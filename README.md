@@ -3,7 +3,6 @@
 [![MoviePy 2.x](https://img.shields.io/badge/MoviePy-2.x-orange.svg)](https://zulko.github.io/moviepy/)
 [![Llama 3.3](https://img.shields.io/badge/LLM-Llama%203.3%20(Groq)-green.svg)](https://groq.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Este repositorio contiene el pipeline automatizado y modular desarrollado para la cátedra de **Interfaz Hombre-Máquina (IHM)**. Su objetivo es la creación de piezas audiovisuales en formato vertical (reels/shorts de 9:16) optimizadas específicamente para estudiantes universitarios con **Trastorno por Déficit de Atención con Hiperactividad (TDAH)**, promoviendo los beneficios de la credencial digital **UniPase**.
 ---
 ## 🧠 Fundamentos de Diseño IHM para TDAH
 El TDAH afecta las funciones ejecutivas, disminuyendo la atención sostenida y aumentando la fatiga cognitiva frente a estímulos sobrecargados o monótonos. Este pipeline integra reglas de diseño de interfaz de alta saliencia basadas en neurociencia cognitiva:
